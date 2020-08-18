@@ -1,2 +1,2 @@
 # Udacity-AI-for-Trading
-Projects for submission
+Code associated with Udacity's AI for Trading NANODEGREE PROGRAM
